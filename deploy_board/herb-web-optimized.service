@@ -1,0 +1,21 @@
+[Unit]
+Description=Herb AI Identification Service (v3.1 Optimized)
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/herb_ai
+Environment="PYTHONUNBUFFERED=1"
+Environment="OMP_NUM_THREADS=4"
+Environment="MKL_NUM_THREADS=4"
+
+# 摄像头 ISP 参数
+ExecStartPre=/bin/sh -c 'v4l2-ctl -d /dev/video0 --set-ctrl analogue_gain=800 --set-ctrl exposure=1200 || true'
+
+ExecStart=/opt/herb_ai/venv/bin/python /opt/herb_ai/app_optimized.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

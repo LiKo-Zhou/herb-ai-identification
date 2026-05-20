@@ -1,0 +1,1292 @@
+{
+  "aiye": {
+    "category": "止血药",
+    "nature": "辛、苦，温；有小毒",
+    "meridian": "归肝、脾、肾经",
+    "functions": "温经止血，散寒止痛；外用祛湿止痒",
+    "indications": "用于吐血，衄血，崩漏，月经过多，胎漏下血，少腹冷痛，经寒不调，宫冷不孕；外治皮肤瘙痒",
+    "precautions": "阴虚血热者慎用",
+    "pinyin": "aiye",
+    "chinese": "艾叶"
+  },
+  "ajiao": {
+    "category": "补血药",
+    "nature": "甘，平",
+    "meridian": "归肺、肝、肾经",
+    "functions": "补血滋阴，润燥，止血",
+    "indications": "用于血虚萎黄，眩晕心悸，肌痿无力，心烦不眠，虚风内动，肺燥咳嗽，劳嗽咯血，吐血尿血，便血崩漏，妊娠胎漏",
+    "precautions": "性质黏腻，有碍消化，脾胃虚弱，纳食不消及呕吐泄泻者均忌服",
+    "pinyin": "ajiao",
+    "chinese": "阿胶"
+  },
+  "baibiandou": {
+    "category": "补气药",
+    "nature": "甘，微温",
+    "meridian": "归脾、胃经",
+    "functions": "健脾化湿，和中消暑",
+    "indications": "用于脾胃虚弱，食欲不振，大便溏泻，白带过多，暑湿吐泻，胸闷腹胀",
+    "precautions": "",
+    "pinyin": "baibiandou",
+    "chinese": "白扁豆"
+  },
+  "baibu": {
+    "category": "止咳平喘药",
+    "nature": "甘、苦，微温",
+    "meridian": "归肺经",
+    "functions": "润肺下气止咳，杀虫灭虱",
+    "indications": "用于新久咳嗽，肺痨咳嗽，顿咳；外用于头虱，体虱，蛲虫病，阴痒",
+    "precautions": "脾胃虚寒者慎服",
+    "pinyin": "baibu",
+    "chinese": "百部"
+  },
+  "baihe": {
+    "category": "补阴药",
+    "nature": "甘，寒",
+    "meridian": "归心、肺经",
+    "functions": "养阴润肺，清心安神",
+    "indications": "用于阴虚燥咳，劳嗽咳血，虚烦惊悸，失眠多梦，精神恍惚",
+    "precautions": "风寒咳嗽及中寒便溏者忌服",
+    "pinyin": "baihe",
+    "chinese": "百合"
+  },
+  "baikou": {
+    "category": "化湿药",
+    "nature": "辛，温",
+    "meridian": "归肺、脾、胃经",
+    "functions": "化湿行气，温中止呕，开胃消食",
+    "indications": "用于湿浊中阻，不思饮食，湿温初起，胸闷不饥，寒湿呕逆，胸腹胀痛，食积不消",
+    "precautions": "",
+    "pinyin": "baikou",
+    "chinese": "白蔻"
+  },
+  "baimaogen": {
+    "category": "止血药",
+    "nature": "甘，寒",
+    "meridian": "归肺、胃、膀胱经",
+    "functions": "凉血止血，清热利尿",
+    "indications": "用于血热吐血，衄血，尿血，热病烦渴，湿热黄疸，水肿尿少，热淋涩痛",
+    "precautions": "脾胃虚寒，尿多不渴者禁服",
+    "pinyin": "baimaogen",
+    "chinese": "白茅根"
+  },
+  "baishao": {
+    "category": "补血药",
+    "nature": "苦、酸，微寒",
+    "meridian": "归肝、脾经",
+    "functions": "养血调经，敛阴止汗，柔肝止痛，平抑肝阳",
+    "indications": "用于血虚萎黄，月经不调，自汗，盗汗，胁痛，腹痛，四肢挛痛，头痛眩晕",
+    "precautions": "不宜与藜芦同用",
+    "pinyin": "baishao",
+    "chinese": "白芍"
+  },
+  "baitouweng": {
+    "category": "清热解毒药",
+    "nature": "苦，寒",
+    "meridian": "归胃、大肠经",
+    "functions": "清热解毒，凉血止痢",
+    "indications": "用于热毒血痢，阴痒带下",
+    "precautions": "虚寒泻痢忌服",
+    "pinyin": "baitouweng",
+    "chinese": "白头翁"
+  },
+  "baizhu": {
+    "category": "补气药",
+    "nature": "苦、甘，温",
+    "meridian": "归脾、胃经",
+    "functions": "健脾益气，燥湿利水，止汗，安胎",
+    "indications": "用于脾虚食少，腹胀泄泻，痰饮眩悸，水肿，自汗，胎动不安",
+    "precautions": "阴虚燥渴，气滞胀闷者忌服",
+    "pinyin": "baizhu",
+    "chinese": "白术"
+  },
+  "baiziren": {
+    "category": "安神药",
+    "nature": "甘，平",
+    "meridian": "归心、肾、大肠经",
+    "functions": "养心安神，润肠通便，止汗",
+    "indications": "用于阴血不足，虚烦失眠，心悸怔忡，肠燥便秘，阴虚盗汗",
+    "precautions": "便溏及痰多者忌服",
+    "pinyin": "baiziren",
+    "chinese": "柏子仁"
+  },
+  "bajitian": {
+    "category": "补阳药",
+    "nature": "甘、辛，微温",
+    "meridian": "归肾、肝经",
+    "functions": "补肾阳，强筋骨，祛风湿",
+    "indications": "用于肾阳不足，阳痿遗精，宫冷不孕，月经不调，少腹冷痛，风湿痹痛，筋骨痿软",
+    "precautions": "阴虚火旺者忌服",
+    "pinyin": "bajitian",
+    "chinese": "巴戟天"
+  },
+  "banlangen": {
+    "category": "清热解毒药",
+    "nature": "苦，寒",
+    "meridian": "归心、胃经",
+    "functions": "清热解毒，凉血利咽",
+    "indications": "用于温疫时毒，发热咽痛，温毒发斑，痄腮，烂喉丹痧，大头瘟疫，丹毒，痈肿",
+    "precautions": "体虚而无实火热毒者忌服，脾胃虚寒者慎用",
+    "pinyin": "banlangen",
+    "chinese": "板蓝根"
+  },
+  "beishashen": {
+    "category": "补阴药",
+    "nature": "甘、微苦，微寒",
+    "meridian": "归肺、胃经",
+    "functions": "养阴清肺，益胃生津",
+    "indications": "用于肺热燥咳，阴虚劳嗽咯血，阴伤津亏的舌干口渴",
+    "precautions": "风寒作嗽及肺胃虚寒者忌服",
+    "pinyin": "beishashen",
+    "chinese": "北沙参"
+  },
+  "biejia": {
+    "category": "补阴药",
+    "nature": "咸，微寒",
+    "meridian": "归肝、肾经",
+    "functions": "滋阴潜阳，退热除蒸，软坚散结",
+    "indications": "用于阴虚发热，骨蒸劳热，阴虚阳亢，头晕目眩，虚风内动，手足瘛疭，经闭，癥瘕，久疟疟母",
+    "precautions": "脾胃虚寒，食少便溏及孕妇禁服",
+    "pinyin": "biejia",
+    "chinese": "鳖甲"
+  },
+  "cangzhu": {
+    "category": "化湿药",
+    "nature": "辛、苦，温",
+    "meridian": "归脾、胃、肝经",
+    "functions": "燥湿健脾，祛风散寒，明目",
+    "indications": "用于湿阻中焦，脘腹胀满，泄泻，水肿，脚气痿蹙，风湿痹痛，风寒感冒，夜盲，眼目昏涩",
+    "precautions": "阴虚内热，气虚多汗者忌服",
+    "pinyin": "cangzhu",
+    "chinese": "苍术"
+  },
+  "caoguo": {
+    "category": "化湿药",
+    "nature": "辛，温",
+    "meridian": "归脾、胃经",
+    "functions": "燥湿温中，截疟除痰",
+    "indications": "用于寒湿内阻，脘腹胀痛，痞满呕吐，疟疾寒热，瘟疫发热",
+    "precautions": "",
+    "pinyin": "caoguo",
+    "chinese": "草果"
+  },
+  "caokou": {
+    "category": "化湿药",
+    "nature": "辛，温",
+    "meridian": "归脾、胃经",
+    "functions": "燥湿行气，温中止呕",
+    "indications": "用于寒湿内阻，脘腹胀满冷痛，嗳气呕逆，不思饮食",
+    "precautions": "",
+    "pinyin": "caokou",
+    "chinese": "草蔻"
+  },
+  "cebaiye": {
+    "category": "止血药",
+    "nature": "苦、涩，微寒",
+    "meridian": "归肺、肝、脾经",
+    "functions": "凉血止血，化痰止咳，生发乌发",
+    "indications": "用于吐血，衄血，咯血，便血，崩漏下血，肺热咳嗽，血热脱发，须发早白",
+    "precautions": "脾胃虚寒者及孕妇忌服",
+    "pinyin": "cebaiye",
+    "chinese": "侧柏叶"
+  },
+  "chaihu": {
+    "category": "解表药",
+    "nature": "辛、苦，微寒",
+    "meridian": "归肝、胆、肺经",
+    "functions": "疏散退热，疏肝解郁，升举阳气",
+    "indications": "用于感冒发热，寒热往来，胸胁胀痛，月经不调，子宫脱垂，脱肛",
+    "precautions": "肝风内动、肝阳上亢、气机上逆者忌用或慎用",
+    "pinyin": "chaihu",
+    "chinese": "柴胡"
+  },
+  "chantui": {
+    "category": "解表药",
+    "nature": "甘，寒",
+    "meridian": "归肺、肝经",
+    "functions": "疏散风热，利咽，透疹，明目退翳，解痉",
+    "indications": "用于风热感冒，咽痛音哑，麻疹不透，风疹瘙痒，目赤翳障，惊风抽搐，破伤风",
+    "precautions": "孕妇慎用",
+    "pinyin": "chantui",
+    "chinese": "蝉蜕"
+  },
+  "chenpi": {
+    "category": "理气药",
+    "nature": "苦、辛，温",
+    "meridian": "归肺、脾经",
+    "functions": "理气健脾，燥湿化痰",
+    "indications": "用于脘腹胀满，食少吐泻，咳嗽痰多",
+    "precautions": "气虚体燥、阴虚燥咳、吐血及内有实热者慎服",
+    "pinyin": "chenpi",
+    "chinese": "陈皮"
+  },
+  "chenxiang": {
+    "category": "理气药",
+    "nature": "辛、苦，微温",
+    "meridian": "归脾、胃、肾经",
+    "functions": "行气止痛，温中止呕，纳气平喘",
+    "indications": "用于胸腹胀闷疼痛，胃寒呕吐呃逆，肾虚气逆喘急",
+    "precautions": "阴虚火旺、气虚下陷者慎服",
+    "pinyin": "chenxiang",
+    "chinese": "沉香"
+  },
+  "chishao": {
+    "category": "清热凉血药",
+    "nature": "苦，微寒",
+    "meridian": "归肝经",
+    "functions": "清热凉血，散瘀止痛",
+    "indications": "用于热入营血，温毒发斑，吐血衄血，目赤肿痛，肝郁胁痛，经闭痛经，癥瘕腹痛，跌扑损伤，痈肿疮疡",
+    "precautions": "不宜与藜芦同用；血虚无瘀之症及痈疽已溃者慎服",
+    "pinyin": "chishao",
+    "chinese": "赤芍"
+  },
+  "chongcao": {
+    "category": "补阳药",
+    "nature": "甘，平",
+    "meridian": "归肺、肾经",
+    "functions": "补肾益肺，止血化痰",
+    "indications": "用于肾虚精亏，阳痿遗精，腰膝酸痛，久咳虚喘，劳嗽咯血",
+    "precautions": "",
+    "pinyin": "chongcao",
+    "chinese": "虫草"
+  },
+  "chuanshanjia": {
+    "category": "活血药",
+    "nature": "咸，微寒",
+    "meridian": "归肝、胃经",
+    "functions": "活血消癥，通经下乳，消肿排脓，搜风通络",
+    "indications": "用于瘀血经闭，癥瘕，风湿痹痛，乳汁不下，痈肿疮毒，瘰疬",
+    "precautions": "【重要】穿山甲为国家一级保护动物，2020版《中国药典》已不再收录本品。孕妇慎用。",
+    "pinyin": "chuanshanjia",
+    "chinese": "穿山甲"
+  },
+  "chuanxinlian": {
+    "category": "清热解毒药",
+    "nature": "苦，寒",
+    "meridian": "归心、肺、大肠、膀胱经",
+    "functions": "清热解毒，凉血，消肿",
+    "indications": "用于感冒发热，咽喉肿痛，口舌生疮，顿咳劳嗽，泄泻痢疾，热淋涩痛，痈肿疮疡，蛇虫咬伤",
+    "precautions": "脾胃虚寒者不宜用",
+    "pinyin": "chuanxinlian",
+    "chinese": "穿心莲"
+  },
+  "dafupi": {
+    "category": "理气药",
+    "nature": "辛，微温",
+    "meridian": "归脾、胃、大肠、小肠经",
+    "functions": "行气宽中，行水消肿",
+    "indications": "用于湿阻气滞，脘腹胀闷，大便不爽，水肿胀满，脚气浮肿，小便不利",
+    "precautions": "气虚体弱者慎服",
+    "pinyin": "dafupi",
+    "chinese": "大腹皮"
+  },
+  "dangshen": {
+    "category": "补气药",
+    "nature": "甘，平",
+    "meridian": "归脾、肺经",
+    "functions": "健脾益肺，养血生津",
+    "indications": "用于脾肺气虚，食少倦怠，咳嗽虚喘，气血不足，面色萎黄，心悸气短，津伤口渴，内热消渴",
+    "precautions": "不宜与藜芦同用",
+    "pinyin": "dangshen",
+    "chinese": "党参"
+  },
+  "danshen": {
+    "category": "活血化瘀药",
+    "nature": "苦，微寒",
+    "meridian": "归心、肝经",
+    "functions": "活血祛瘀，通经止痛，清心除烦，凉血消痈",
+    "indications": "用于胸痹心痛，脘腹胁痛，癥瘕积聚，热痹疼痛，心烦不眠，月经不调，痛经经闭，疮疡肿痛",
+    "precautions": "不宜与藜芦同用",
+    "pinyin": "danshen",
+    "chinese": "丹参"
+  },
+  "daqingye": {
+    "category": "清热解毒药",
+    "nature": "苦，寒",
+    "meridian": "归心、胃经",
+    "functions": "清热解毒，凉血消斑",
+    "indications": "用于温病高热，神昏，发斑发疹，痄腮，喉痹，丹毒，痈肿",
+    "precautions": "",
+    "pinyin": "daqingye",
+    "chinese": "大青叶"
+  },
+  "daxueteng": {
+    "category": "清热解毒药",
+    "nature": "苦，平",
+    "meridian": "归大肠、肝经",
+    "functions": "清热解毒，活血，祛风止痛",
+    "indications": "用于肠痈腹痛，经闭痛经，风湿痹痛，跌扑肿痛",
+    "precautions": "",
+    "pinyin": "daxueteng",
+    "chinese": "大血藤"
+  },
+  "dilong": {
+    "category": "平肝息风药",
+    "nature": "咸，寒",
+    "meridian": "归肝、脾、膀胱经",
+    "functions": "清热定惊，通络，平喘，利尿",
+    "indications": "用于高热神昏，惊痫抽搐，关节痹痛，肢体麻木，半身不遂，肺热咳喘，水肿尿少",
+    "precautions": "脾胃虚寒者慎用，孕妇禁服",
+    "pinyin": "dilong",
+    "chinese": "地龙"
+  },
+  "diyu": {
+    "category": "止血药",
+    "nature": "苦、酸、涩，微寒",
+    "meridian": "归肝、大肠经",
+    "functions": "凉血止血，解毒敛疮",
+    "indications": "用于便血，痔血，血痢，崩漏，水火烫伤，痈肿疮毒",
+    "precautions": "虚寒性便血、下痢、崩漏及出血有瘀者慎用",
+    "pinyin": "diyu",
+    "chinese": "地榆"
+  },
+  "duzhong": {
+    "category": "补阳药",
+    "nature": "甘，温",
+    "meridian": "归肝、肾经",
+    "functions": "补肝肾，强筋骨，安胎",
+    "indications": "用于肝肾不足，腰膝酸痛，筋骨无力，头晕目眩，妊娠漏血，胎动不安",
+    "precautions": "阴虚火旺者慎服",
+    "pinyin": "duzhong",
+    "chinese": "杜仲"
+  },
+  "fangfeng": {
+    "category": "解表药",
+    "nature": "辛、甘，微温",
+    "meridian": "归膀胱、肝、脾经",
+    "functions": "祛风解表，胜湿止痛，止痉",
+    "indications": "用于感冒头痛，风湿痹痛，风疹瘙痒，破伤风",
+    "precautions": "血虚发痉及阴虚火旺者慎用",
+    "pinyin": "fangfeng",
+    "chinese": "防风"
+  },
+  "foshou": {
+    "category": "理气药",
+    "nature": "辛、苦、酸，温",
+    "meridian": "归肝、脾、胃、肺经",
+    "functions": "疏肝理气，和胃止痛，燥湿化痰",
+    "indications": "用于肝胃气滞，胸胁胀痛，胃脘痞满，食少呕吐，咳嗽痰多",
+    "precautions": "阴虚有火，无气滞症状者不宜",
+    "pinyin": "foshou",
+    "chinese": "佛手"
+  },
+  "fuling": {
+    "category": "利水渗湿药",
+    "nature": "甘、淡，平",
+    "meridian": "归心、肺、脾、肾经",
+    "functions": "利水渗湿，健脾，宁心",
+    "indications": "用于水肿尿少，痰饮眩悸，脾虚食少，便溏泄泻，心神不安，惊悸失眠",
+    "precautions": "阴虚而无湿热、虚寒滑精、气虚下陷者慎服",
+    "pinyin": "fuling",
+    "chinese": "茯苓"
+  },
+  "fupenzi": {
+    "category": "收涩药",
+    "nature": "甘、酸，温",
+    "meridian": "归肝、肾、膀胱经",
+    "functions": "益肾固精缩尿，养肝明目",
+    "indications": "用于遗精滑精，遗尿尿频，阳痿早泄，目暗昏花",
+    "precautions": "肾虚有火，小便短涩者不宜服用",
+    "pinyin": "fupenzi",
+    "chinese": "覆盆子"
+  },
+  "fuzi": {
+    "category": "温里药",
+    "nature": "辛、甘，大热；有毒",
+    "meridian": "归心、肾、脾经",
+    "functions": "回阳救逆，补火助阳，散寒止痛",
+    "indications": "用于亡阳虚脱，肢冷脉微，心阳不足，胸痹心痛，虚寒吐泻，脘腹冷痛，肾阳虚衰，阳痿宫冷，阴寒水肿，阳虚外感，寒湿痹痛",
+    "precautions": "孕妇慎用；不宜与半夏、瓜蒌、瓜蒌子、瓜蒌皮、天花粉、川贝母、浙贝母、平贝母、伊贝母、湖北贝母、白蔹、白及同用",
+    "pinyin": "fuzi",
+    "chinese": "附子"
+  },
+  "gancao": {
+    "category": "补气药",
+    "nature": "甘，平",
+    "meridian": "归心、肺、脾、胃经",
+    "functions": "补脾益气，清热解毒，祛痰止咳，缓急止痛，调和诸药",
+    "indications": "用于脾胃虚弱，倦怠乏力，心悸气短，咳嗽痰多，脘腹、四肢挛急疼痛，痈肿疮毒，缓解药物毒性、烈性",
+    "precautions": "不宜与海藻、京大戟、红大戟、甘遂、芫花同用",
+    "pinyin": "gancao",
+    "chinese": "甘草"
+  },
+  "ganjiang": {
+    "category": "温里药",
+    "nature": "辛，热",
+    "meridian": "归脾、胃、肾、心、肺经",
+    "functions": "温中散寒，回阳通脉，温肺化饮",
+    "indications": "用于脘腹冷痛，呕吐泄泻，肢冷脉微，寒饮喘咳",
+    "precautions": "阴虚内热、血热妄行者禁服",
+    "pinyin": "ganjiang",
+    "chinese": "干姜"
+  },
+  "gegen": {
+    "category": "解表药",
+    "nature": "甘、辛，凉",
+    "meridian": "归脾、胃经",
+    "functions": "解肌退热，生津止渴，透疹，升阳止泻，通经活络，解酒毒",
+    "indications": "用于外感发热头痛，项背强痛，口渴，消渴，麻疹不透，热痢，泄泻，眩晕头痛，中风偏瘫，胸痹心痛，酒毒伤中",
+    "precautions": "胃寒者慎用",
+    "pinyin": "gegen",
+    "chinese": "葛根"
+  },
+  "gouqizi": {
+    "category": "补阴药",
+    "nature": "甘，平",
+    "meridian": "归肝、肾经",
+    "functions": "滋补肝肾，益精明目",
+    "indications": "用于虚劳精亏，腰膝酸痛，眩晕耳鸣，内热消渴，血虚萎黄，目昏不明",
+    "precautions": "外感实热、脾虚泄泻者慎服",
+    "pinyin": "gouqizi",
+    "chinese": "枸杞子"
+  },
+  "gouteng": {
+    "category": "平肝息风药",
+    "nature": "甘，凉",
+    "meridian": "归肝、心包经",
+    "functions": "息风定惊，清热平肝",
+    "indications": "用于肝风内动，惊痫抽搐，高热惊厥，感冒夹惊，小儿惊啼，妊娠子痫，头痛眩晕",
+    "precautions": "脾胃虚寒者慎服",
+    "pinyin": "gouteng",
+    "chinese": "钩藤"
+  },
+  "guya": {
+    "category": "消食药",
+    "nature": "甘，温",
+    "meridian": "归脾、胃经",
+    "functions": "消食和中，健脾开胃",
+    "indications": "用于食积不消，腹胀口臭，脾胃虚弱，不饥食少",
+    "precautions": "",
+    "pinyin": "guya",
+    "chinese": "谷芽"
+  },
+  "hehuanpi": {
+    "category": "安神药",
+    "nature": "甘，平",
+    "meridian": "归心、肝、肺经",
+    "functions": "解郁安神，活血消肿",
+    "indications": "用于心神不安，忧郁失眠，肺痈，疮肿，跌扑伤痛",
+    "precautions": "孕妇慎用；溃疡病及胃炎患者慎服",
+    "pinyin": "hehuanpi",
+    "chinese": "合欢皮"
+  },
+  "heshouwu": {
+    "category": "补血药",
+    "nature": "苦、甘、涩，微温",
+    "meridian": "归肝、心、肾经",
+    "functions": "解毒，消痈，截疟，润肠通便",
+    "indications": "用于疮痈，瘰疬，风疹瘙痒，久疟体虚，肠燥便秘",
+    "precautions": "大便溏泄及有湿痰者不宜",
+    "pinyin": "heshouwu",
+    "chinese": "何首乌"
+  },
+  "honghua": {
+    "category": "活血化瘀药",
+    "nature": "辛，温",
+    "meridian": "归心、肝经",
+    "functions": "活血通经，散瘀止痛",
+    "indications": "用于经闭，痛经，恶露不行，癥瘕痞块，胸痹心痛，瘀滞腹痛，胸胁刺痛，跌扑损伤，疮疡肿痛",
+    "precautions": "孕妇慎用",
+    "pinyin": "honghua",
+    "chinese": "红花"
+  },
+  "houpu": {
+    "category": "化湿药",
+    "nature": "苦、辛，温",
+    "meridian": "归脾、胃、肺、大肠经",
+    "functions": "燥湿消痰，下气除满",
+    "indications": "用于湿滞伤中，脘痞吐泻，食积气滞，腹胀便秘，痰饮喘咳",
+    "precautions": "孕妇慎用",
+    "pinyin": "houpu",
+    "chinese": "厚朴"
+  },
+  "huaihua": {
+    "category": "止血药",
+    "nature": "苦，微寒",
+    "meridian": "归肝、大肠经",
+    "functions": "凉血止血，清肝泻火",
+    "indications": "用于便血，痔血，血痢，崩漏，吐血，衄血，肝热目赤，头痛眩晕",
+    "precautions": "脾胃虚寒及阴虚发热而无实火者慎用",
+    "pinyin": "huaihua",
+    "chinese": "槐花"
+  },
+  "huangbo": {
+    "category": "清热燥湿药",
+    "nature": "苦，寒",
+    "meridian": "归肾、膀胱经",
+    "functions": "清热燥湿，泻火除蒸，解毒疗疮",
+    "indications": "用于湿热泻痢，黄疸尿赤，带下阴痒，热淋涩痛，脚气痿蹙，骨蒸劳热，盗汗，遗精，疮疡肿毒，湿疹湿疮",
+    "precautions": "脾胃虚寒者忌服",
+    "pinyin": "huangbo",
+    "chinese": "黄柏"
+  },
+  "huangjing": {
+    "category": "补阴药",
+    "nature": "甘，平",
+    "meridian": "归脾、肺、肾经",
+    "functions": "补气养阴，健脾，润肺，益肾",
+    "indications": "用于脾胃气虚，体倦乏力，胃阴不足，口干食少，肺虚燥咳，劳嗽咳血，精血不足，腰膝酸软，须发早白，内热消渴",
+    "precautions": "中寒泄泻，痰湿痞满气滞者禁服",
+    "pinyin": "huangjing",
+    "chinese": "黄精"
+  },
+  "huangqin": {
+    "category": "清热燥湿药",
+    "nature": "苦，寒",
+    "meridian": "归肺、胆、脾、大肠、小肠经",
+    "functions": "清热燥湿，泻火解毒，止血，安胎",
+    "indications": "用于湿温、暑湿，胸闷呕恶，湿热痞满，泻痢，黄疸，肺热咳嗽，高热烦渴，血热吐衄，痈肿疮毒，胎动不安",
+    "precautions": "脾胃虚寒者不宜使用",
+    "pinyin": "huangqin",
+    "chinese": "黄芩"
+  },
+  "huomaren": {
+    "category": "润下药",
+    "nature": "甘，平",
+    "meridian": "归脾、胃、大肠经",
+    "functions": "润肠通便",
+    "indications": "用于血虚津亏，肠燥便秘",
+    "precautions": "大量食用会引起中毒",
+    "pinyin": "huomaren",
+    "chinese": "火麻仁"
+  },
+  "jiangcan": {
+    "category": "平肝息风药",
+    "nature": "咸、辛，平",
+    "meridian": "归肝、肺、胃经",
+    "functions": "息风止痉，祛风止痛，化痰散结",
+    "indications": "用于肝风夹痰，惊痫抽搐，小儿急惊，破伤风，中风口，风热头痛，目赤咽痛，风疹瘙痒，发颐痄腮",
+    "precautions": "",
+    "pinyin": "jiangcan",
+    "chinese": "僵蚕"
+  },
+  "jianghuang": {
+    "category": "活血化瘀药",
+    "nature": "辛、苦，温",
+    "meridian": "归脾、肝经",
+    "functions": "破血行气，通经止痛",
+    "indications": "用于胸胁刺痛，闭经，癥瘕，风湿肩臂疼痛，跌扑肿痛",
+    "precautions": "血虚无气滞血瘀者慎用，孕妇忌服",
+    "pinyin": "jianghuang",
+    "chinese": "姜黄"
+  },
+  "jingjie": {
+    "category": "解表药",
+    "nature": "辛，微温",
+    "meridian": "归肺、肝经",
+    "functions": "解表散风，透疹，消疮",
+    "indications": "用于感冒，头痛，麻疹不透，疮疡初起",
+    "precautions": "表虚自汗、阴虚火旺者禁服",
+    "pinyin": "jingjie",
+    "chinese": "荆芥"
+  },
+  "jinqiancao": {
+    "category": "利湿退黄药",
+    "nature": "甘、咸，微寒",
+    "meridian": "归肝、胆、肾、膀胱经",
+    "functions": "利湿退黄，利尿通淋，解毒消肿",
+    "indications": "用于湿热黄疸，胆胀胁痛，石淋，热淋，小便涩痛，痈肿疔疮，蛇虫咬伤",
+    "precautions": "凡阴疽诸毒，脾虚泄泻者，忌捣汁生服",
+    "pinyin": "jinqiancao",
+    "chinese": "金钱草"
+  },
+  "jinyinhua": {
+    "category": "清热解毒药",
+    "nature": "甘，寒",
+    "meridian": "归肺、心、胃经",
+    "functions": "清热解毒，疏散风热",
+    "indications": "用于痈肿疔疮，喉痹，丹毒，热毒血痢，风热感冒，温病发热",
+    "precautions": "脾胃虚寒及气虚疮疡脓清者忌服",
+    "pinyin": "jinyinhua",
+    "chinese": "金银花"
+  },
+  "jixueteng": {
+    "category": "活血药",
+    "nature": "苦、甘，温",
+    "meridian": "归肝、肾经",
+    "functions": "活血补血，调经止痛，舒筋活络",
+    "indications": "用于月经不调，痛经，经闭，风湿痹痛，麻木瘫痪，血虚萎黄",
+    "precautions": "",
+    "pinyin": "jixueteng",
+    "chinese": "鸡血藤"
+  },
+  "kushen": {
+    "category": "清热燥湿药",
+    "nature": "苦，寒",
+    "meridian": "归心、肝、胃、大肠、膀胱经",
+    "functions": "清热燥湿，杀虫，利尿",
+    "indications": "用于热痢，便血，黄疸尿闭，赤白带下，阴肿阴痒，湿疹，湿疮，皮肤瘙痒，疥癣麻风，外治滴虫性阴道炎",
+    "precautions": "脾胃虚寒者忌服；不宜与藜芦同用",
+    "pinyin": "kushen",
+    "chinese": "苦参"
+  },
+  "laifuzi": {
+    "category": "消食药",
+    "nature": "辛、甘，平",
+    "meridian": "归肺、脾、胃经",
+    "functions": "消食除胀，降气化痰",
+    "indications": "用于饮食停滞，脘腹胀痛，大便秘结，积滞泻痢，痰壅喘咳",
+    "precautions": "气虚及无食积、痰滞者慎用",
+    "pinyin": "laifuzi",
+    "chinese": "莱菔子"
+  },
+  "lianzixin": {
+    "category": "清热泻火药",
+    "nature": "苦，寒",
+    "meridian": "归心、肾经",
+    "functions": "清心安神，交通心肾，涩精止血",
+    "indications": "用于热入心包，神昏谵语，心肾不交，失眠遗精，血热吐血",
+    "precautions": "脾胃虚寒者禁服",
+    "pinyin": "lianzixin",
+    "chinese": "莲子心"
+  },
+  "lizhihe": {
+    "category": "理气药",
+    "nature": "甘、微苦，温",
+    "meridian": "归肝、肾经",
+    "functions": "行气散结，祛寒止痛",
+    "indications": "用于寒疝腹痛，睾丸肿痛，胃脘痛，痛经",
+    "precautions": "",
+    "pinyin": "lizhihe",
+    "chinese": "荔枝核"
+  },
+  "longgu": {
+    "category": "安神药",
+    "nature": "甘、涩，平",
+    "meridian": "归心、肝、肾经",
+    "functions": "镇惊安神，平肝潜阳，收敛固涩",
+    "indications": "用于心悸怔忡，失眠健忘，惊痫癫狂，头晕目眩，自汗盗汗，遗精遗尿，崩漏带下，外用湿疮痒疹，疮疡久溃不敛",
+    "precautions": "湿热积滞者慎服",
+    "pinyin": "longgu",
+    "chinese": "龙骨"
+  },
+  "lulutong": {
+    "category": "祛风湿药",
+    "nature": "苦，平",
+    "meridian": "归肝、肾经",
+    "functions": "祛风活络，利水，通经",
+    "indications": "用于关节痹痛，麻木痉挛，水肿胀满，乳少，经闭",
+    "precautions": "孕妇忌服；阴虚内热者不宜",
+    "pinyin": "lulutong",
+    "chinese": "路路通"
+  },
+  "maidong": {
+    "category": "补阴药",
+    "nature": "甘、微苦，微寒",
+    "meridian": "归心、肺、胃经",
+    "functions": "养阴生津，润肺清心",
+    "indications": "用于肺燥干咳，阴虚痨嗽，喉痹咽痛，津伤口渴，内热消渴，心烦失眠，肠燥便秘",
+    "precautions": "脾胃虚寒泄泻，胃有痰饮湿浊及风寒咳嗽者均忌服",
+    "pinyin": "maidong",
+    "chinese": "麦冬"
+  },
+  "maiya": {
+    "category": "消食药",
+    "nature": "甘，平",
+    "meridian": "归脾、胃经",
+    "functions": "行气消食，健脾开胃，回乳消胀",
+    "indications": "用于食积不消，脘腹胀痛，脾虚食少，乳汁郁积，乳房胀痛，妇女断乳",
+    "precautions": "哺乳期妇女不宜使用；痰火哮喘及孕妇不宜",
+    "pinyin": "maiya",
+    "chinese": "麦芽"
+  },
+  "mohanlian": {
+    "category": "补阴药",
+    "nature": "甘、酸，寒",
+    "meridian": "归肾、肝经",
+    "functions": "滋补肝肾，凉血止血",
+    "indications": "用于肝肾阴虚，牙齿松动，须发早白，眩晕耳鸣，腰膝酸软，阴虚血热吐血、衄血、尿血，血痢，崩漏下血，外伤出血",
+    "precautions": "脾肾虚寒者忌服",
+    "pinyin": "mohanlian",
+    "chinese": "墨旱莲"
+  },
+  "muli": {
+    "category": "平肝息风药",
+    "nature": "咸、涩，微寒",
+    "meridian": "归肝、肾经",
+    "functions": "重镇安神，潜阳补阴，软坚散结",
+    "indications": "用于惊悸失眠，眩晕耳鸣，瘰疬痰核，癥瘕痞块，自汗盗汗，遗精崩带，胃痛吞酸",
+    "precautions": "体虚有寒者不宜",
+    "pinyin": "muli",
+    "chinese": "牡蛎"
+  },
+  "muxiang": {
+    "category": "理气药",
+    "nature": "辛、苦，温",
+    "meridian": "归脾、胃、大肠、三焦、胆经",
+    "functions": "行气止痛，健脾消食",
+    "indications": "用于胸胁、脘腹胀痛，泻痢后重，食积不消，不思饮食",
+    "precautions": "",
+    "pinyin": "muxiang",
+    "chinese": "木香"
+  },
+  "nvzhenzi": {
+    "category": "补阴药",
+    "nature": "甘、苦，凉",
+    "meridian": "归肝、肾经",
+    "functions": "滋补肝肾，明目乌发",
+    "indications": "用于肝肾阴虚，眩晕耳鸣，腰膝酸软，须发早白，目暗不明，内热消渴，骨蒸潮热",
+    "precautions": "脾胃虚寒泄泻及阳虚者忌服",
+    "pinyin": "nvzhenzi",
+    "chinese": "女贞子"
+  },
+  "paojiang": {
+    "category": "温里药",
+    "nature": "辛，热",
+    "meridian": "归脾、胃、肾经",
+    "functions": "温中散寒，温经止血",
+    "indications": "用于脾胃虚寒，腹痛吐泻，吐衄崩漏，阳虚失血",
+    "precautions": "孕妇及阴虚有热者禁服",
+    "pinyin": "paojiang",
+    "chinese": "炮姜"
+  },
+  "peilan": {
+    "category": "化湿药",
+    "nature": "辛，平",
+    "meridian": "归脾、胃、肺经",
+    "functions": "芳香化湿，醒脾开胃，发表解暑",
+    "indications": "用于湿浊中阻，脘痞呕恶，口中甜腻，口臭，多涎，暑湿表证，湿温初起，发热倦怠，胸闷不舒",
+    "precautions": "阴虚血燥、气虚者慎用",
+    "pinyin": "peilan",
+    "chinese": "佩兰"
+  },
+  "pugongying": {
+    "category": "清热解毒药",
+    "nature": "苦、甘，寒",
+    "meridian": "归肝、胃经",
+    "functions": "清热解毒，消肿散结，利尿通淋",
+    "indications": "用于疔疮肿毒，乳痈，瘰疬，目赤，咽痛，肺痈，肠痈，湿热黄疸，热淋涩痛",
+    "precautions": "非实热之证及阴疽者慎用",
+    "pinyin": "pugongying",
+    "chinese": "蒲公英"
+  },
+  "qianhu": {
+    "category": "化痰止咳平喘药",
+    "nature": "苦、辛，微寒",
+    "meridian": "归肺经",
+    "functions": "降气化痰，散风清热",
+    "indications": "用于痰热喘满，咯痰黄稠，风热咳嗽痰多",
+    "precautions": "阴虚气弱咳嗽者慎服",
+    "pinyin": "qianhu",
+    "chinese": "前胡"
+  },
+  "qinghao": {
+    "category": "清虚热药",
+    "nature": "苦、辛，寒",
+    "meridian": "归肝、胆经",
+    "functions": "清虚热，除骨蒸，解暑热，截疟，退黄",
+    "indications": "用于温邪伤阴，夜热早凉，阴虚发热，骨蒸劳热，暑邪发热，疟疾寒热，湿热黄疸",
+    "precautions": "脾胃虚弱，肠滑泄泻者忌服",
+    "pinyin": "qinghao",
+    "chinese": "青蒿"
+  },
+  "quanxie": {
+    "category": "息风止痉药",
+    "nature": "辛，平；有毒",
+    "meridian": "归肝经",
+    "functions": "息风镇痉，通络止痛，攻毒散结",
+    "indications": "用于肝风内动，痉挛抽搐，小儿惊风，中风口歪，半身不遂，破伤风，风湿顽痹，偏正头痛，疮疡，瘰疬",
+    "precautions": "孕妇禁用",
+    "pinyin": "quanxie",
+    "chinese": "全蝎"
+  },
+  "renshen": {
+    "category": "补气药",
+    "nature": "甘、微苦，微温",
+    "meridian": "归脾、肺、心、肾经",
+    "functions": "大补元气，复脉固脱，补脾益肺，生津养血，安神益智",
+    "indications": "用于体虚欲脱，肢冷脉微，脾虚食少，肺虚喘咳，津伤口渴，内热消渴，气血亏虚，久病虚羸，惊悸失眠，阳痿宫冷",
+    "precautions": "不宜与藜芦、五灵脂同用",
+    "pinyin": "renshen",
+    "chinese": "人参"
+  },
+  "renshenqie": {
+    "category": "补气药",
+    "nature": "甘、微苦，微温",
+    "meridian": "归脾、肺、心、肾经",
+    "functions": "大补元气，复脉固脱，补脾益肺，生津养血，安神益智",
+    "indications": "用于体虚欲脱，肢冷脉微，脾虚食少，肺虚喘咳，津伤口渴，内热消渴，气血亏虚，久病虚羸，惊悸失眠，阳痿宫冷",
+    "precautions": "不宜与藜芦、五灵脂同用",
+    "pinyin": "renshenqie",
+    "chinese": "人参须"
+  },
+  "roucongrong": {
+    "category": "补阳药",
+    "nature": "甘、咸，温",
+    "meridian": "归肾、大肠经",
+    "functions": "补肾阳，益精血，润肠通便",
+    "indications": "用于肾阳不足，精血亏虚，阳痿不孕，腰膝酸软，筋骨无力，肠燥便秘",
+    "precautions": "相火偏旺、胃弱便溏、实热便结者禁服",
+    "pinyin": "roucongrong",
+    "chinese": "肉苁蓉"
+  },
+  "roudoukou": {
+    "category": "收涩药",
+    "nature": "辛，温",
+    "meridian": "归脾、胃、大肠经",
+    "functions": "温中行气，涩肠止泻",
+    "indications": "用于脾胃虚寒，久泻不止，脘腹胀痛，食少呕吐",
+    "precautions": "",
+    "pinyin": "roudoukou",
+    "chinese": "肉豆蔻"
+  },
+  "rougui": {
+    "category": "温里药",
+    "nature": "辛、甘，大热",
+    "meridian": "归肾、脾、心、肝经",
+    "functions": "补火助阳，引火归元，散寒止痛，温通经脉",
+    "indications": "用于阳痿宫冷，腰膝冷痛，肾虚作喘，虚阳上浮，眩晕目赤，心腹冷痛，虚寒吐泻，寒疝腹痛，痛经经闭",
+    "precautions": "有出血倾向者及孕妇慎用；不宜与赤石脂同用",
+    "pinyin": "rougui",
+    "chinese": "肉桂"
+  },
+  "sangpiaoxiao": {
+    "category": "收涩药",
+    "nature": "甘、咸，平",
+    "meridian": "归肝、肾经",
+    "functions": "固精缩尿，补肾助阳",
+    "indications": "用于遗精滑精，遗尿尿频，小便白浊，阳痿",
+    "precautions": "",
+    "pinyin": "sangpiaoxiao",
+    "chinese": "桑螵蛸"
+  },
+  "sangshen": {
+    "category": "补血药",
+    "nature": "甘、酸，寒",
+    "meridian": "归肝、肾经",
+    "functions": "滋阴补血，生津润燥",
+    "indications": "用于肝肾阴虚，眩晕耳鸣，心悸失眠，须发早白，津伤口渴，内热消渴，肠燥便秘",
+    "precautions": "脾胃虚寒便溏者忌服",
+    "pinyin": "sangshen",
+    "chinese": "桑葚"
+  },
+  "sanqi": {
+    "category": "活血化瘀药",
+    "nature": "甘、微苦，温",
+    "meridian": "归肝、胃经",
+    "functions": "散瘀止血，消肿定痛",
+    "indications": "用于咯血，吐血，衄血，便血，崩漏，外伤出血，胸腹刺痛，跌扑肿痛",
+    "precautions": "孕妇慎用",
+    "pinyin": "sanqi",
+    "chinese": "三七"
+  },
+  "shanyao": {
+    "category": "补气药",
+    "nature": "甘，平",
+    "meridian": "归脾、肺、肾经",
+    "functions": "补脾养胃，生津益肺，补肾涩精",
+    "indications": "用于脾虚食少，久泻不止，肺虚喘咳，肾虚遗精，带下，尿频，虚热消渴",
+    "precautions": "湿盛中满或有实邪、积滞者不宜单用",
+    "pinyin": "shanyao",
+    "chinese": "山药"
+  },
+  "shanzhuyu": {
+    "category": "收涩药",
+    "nature": "酸、涩，微温",
+    "meridian": "归肝、肾经",
+    "functions": "补益肝肾，收涩固脱",
+    "indications": "用于眩晕耳鸣，腰膝酸痛，阳痿遗精，遗尿尿频，崩漏带下，大汗虚脱，内热消渴",
+    "precautions": "素有湿热，小便淋涩者，不宜应用",
+    "pinyin": "shanzhuyu",
+    "chinese": "山茱萸"
+  },
+  "sharen": {
+    "category": "化湿药",
+    "nature": "辛，温",
+    "meridian": "归脾、胃、肾经",
+    "functions": "化湿开胃，温脾止泻，理气安胎",
+    "indications": "用于湿浊中阻，脘痞不饥，脾胃虚寒，呕吐泄泻，妊娠恶阻，胎动不安",
+    "precautions": "阴虚有热者忌服",
+    "pinyin": "sharen",
+    "chinese": "砂仁"
+  },
+  "shechuangzi": {
+    "category": "补阳药",
+    "nature": "辛、苦，温；有小毒",
+    "meridian": "归肾经",
+    "functions": "燥湿祛风，杀虫止痒，温肾壮阳",
+    "indications": "用于阴痒带下，湿疹瘙痒，湿痹腰痛，肾虚阳痿，宫冷不孕",
+    "precautions": "",
+    "pinyin": "shechuangzi",
+    "chinese": "蛇床子"
+  },
+  "shegan": {
+    "category": "清热解毒药",
+    "nature": "苦，寒",
+    "meridian": "归肺经",
+    "functions": "清热解毒，消痰，利咽",
+    "indications": "用于热毒痰火郁结，咽喉肿痛，痰涎壅盛，咳嗽气喘",
+    "precautions": "病无实热，脾虚便溏及孕妇禁服",
+    "pinyin": "shegan",
+    "chinese": "射干"
+  },
+  "shenqu": {
+    "category": "消食药",
+    "nature": "甘、辛，温",
+    "meridian": "归脾、胃经",
+    "functions": "消食和胃",
+    "indications": "用于食积不消，脘腹胀满，不思饮食，肠鸣泄泻",
+    "precautions": "",
+    "pinyin": "shenqu",
+    "chinese": "神曲"
+  },
+  "shigao": {
+    "category": "清热泻火药",
+    "nature": "甘、辛，大寒",
+    "meridian": "归肺、胃经",
+    "functions": "清热泻火，除烦止渴",
+    "indications": "用于外感热病，高热烦渴，肺热喘咳，胃火牙痛，头痛，消渴",
+    "precautions": "脾胃虚寒及阴虚内热者忌服",
+    "pinyin": "shigao",
+    "chinese": "石膏"
+  },
+  "shihu": {
+    "category": "补阴药",
+    "nature": "甘，微寒",
+    "meridian": "归胃、肾经",
+    "functions": "益胃生津，滋阴清热",
+    "indications": "用于热病津伤，口干烦渴，胃阴不足，食少干呕，病后虚热不退，阴虚火旺，骨蒸劳热，目暗不明，筋骨痿软",
+    "precautions": "温热病早期阴未伤者、湿温病未化燥者、脾胃虚寒者均禁服",
+    "pinyin": "shihu",
+    "chinese": "石斛"
+  },
+  "shouwuteng": {
+    "category": "安神药",
+    "nature": "甘，平",
+    "meridian": "归心、肝经",
+    "functions": "养血安神，祛风通络",
+    "indications": "用于失眠多梦，血虚身痛，风湿痹痛，皮肤瘙痒",
+    "precautions": "",
+    "pinyin": "shouwuteng",
+    "chinese": "首乌藤"
+  },
+  "shuihonghuazi": {
+    "category": "活血药",
+    "nature": "咸，微寒",
+    "meridian": "归肝、胃经",
+    "functions": "散血消癥，消积止痛",
+    "indications": "用于癥瘕痞块，瘿瘤肿痛，食积不消，胃脘胀痛",
+    "precautions": "血分无瘀滞及脾胃虚寒者忌服",
+    "pinyin": "shuihonghuazi",
+    "chinese": "水红花子"
+  },
+  "suanzaoren": {
+    "category": "安神药",
+    "nature": "甘、酸，平",
+    "meridian": "归肝、胆、心经",
+    "functions": "养心补肝，宁心安神，敛汗，生津",
+    "indications": "用于虚烦不眠，惊悸多梦，体虚多汗，津伤口渴",
+    "precautions": "有实邪郁火者慎服",
+    "pinyin": "suanzaoren",
+    "chinese": "酸枣仁"
+  },
+  "taoren": {
+    "category": "活血化瘀药",
+    "nature": "苦、甘，平",
+    "meridian": "归心、肝、大肠经",
+    "functions": "活血祛瘀，润肠通便，止咳平喘",
+    "indications": "用于经闭痛经，癥瘕痞块，肺痈肠痈，跌扑损伤，肠燥便秘，咳嗽气喘",
+    "precautions": "孕妇慎用；便溏者慎用",
+    "pinyin": "taoren",
+    "chinese": "桃仁"
+  },
+  "tiandong": {
+    "category": "补阴药",
+    "nature": "甘、苦，寒",
+    "meridian": "归肺、肾经",
+    "functions": "养阴润燥，清肺生津",
+    "indications": "用于肺燥干咳，顿咳痰黏，腰膝酸痛，骨蒸潮热，内热消渴，热病津伤，咽干口渴，肠燥便秘",
+    "precautions": "虚寒泄泻及风寒咳嗽者禁服",
+    "pinyin": "tiandong",
+    "chinese": "天冬"
+  },
+  "tiankuizi": {
+    "category": "清热解毒药",
+    "nature": "甘、苦，寒",
+    "meridian": "归肝、胃经",
+    "functions": "清热解毒，消肿散结",
+    "indications": "用于痈肿疔疮，乳痈，瘰疬，蛇虫咬伤",
+    "precautions": "脾胃虚寒者慎用",
+    "pinyin": "tiankuizi",
+    "chinese": "天葵子"
+  },
+  "tianma": {
+    "category": "息风止痉药",
+    "nature": "甘，平",
+    "meridian": "归肝经",
+    "functions": "息风止痉，平抑肝阳，祛风通络",
+    "indications": "用于小儿惊风，癫痫抽搐，破伤风，头痛眩晕，手足不遂，肢体麻木，风湿痹痛",
+    "precautions": "气血虚甚者慎服",
+    "pinyin": "tianma",
+    "chinese": "天麻"
+  },
+  "tiannanxing": {
+    "category": "化痰止咳平喘药",
+    "nature": "苦、辛，温；有毒",
+    "meridian": "归肺、肝、脾经",
+    "functions": "燥湿化痰，祛风止痉，散结消肿",
+    "indications": "用于顽痰咳嗽，风痰眩晕，中风痰壅，口眼歪斜，半身不遂，癫痫，惊风，破伤风；外用治痈肿，蛇虫咬伤",
+    "precautions": "孕妇慎用；生品内服宜慎",
+    "pinyin": "tiannanxing",
+    "chinese": "天南星"
+  },
+  "tongcao": {
+    "category": "利水渗湿药",
+    "nature": "甘、淡，微寒",
+    "meridian": "归肺、胃经",
+    "functions": "清热利尿，通气下乳",
+    "indications": "用于湿热淋证，水肿尿少，乳汁不下",
+    "precautions": "孕妇慎用",
+    "pinyin": "tongcao",
+    "chinese": "通草"
+  },
+  "tubiechong": {
+    "category": "活血药",
+    "nature": "咸，寒；有小毒",
+    "meridian": "归肝经",
+    "functions": "破血逐瘀，续筋接骨",
+    "indications": "用于跌打损伤，筋伤骨折，血瘀经闭，产后瘀阻腹痛，癥瘕痞块",
+    "precautions": "孕妇禁用",
+    "pinyin": "tubiechong",
+    "chinese": "土鳖虫"
+  },
+  "tusizi": {
+    "category": "补阳药",
+    "nature": "辛、甘，平",
+    "meridian": "归肝、肾、脾经",
+    "functions": "补益肝肾，固精缩尿，安胎，明目，止泻；外用消风祛斑",
+    "indications": "用于肝肾不足，腰膝酸软，阳痿遗精，遗尿尿频，肾虚胎漏，胎动不安，目昏耳鸣，脾肾虚泻；外治白癜风",
+    "precautions": "阴虚火旺、阳强不痿及大便燥结者禁服",
+    "pinyin": "tusizi",
+    "chinese": "菟丝子"
+  },
+  "wujiapi": {
+    "category": "祛风湿药",
+    "nature": "辛、苦，温",
+    "meridian": "归肝、肾经",
+    "functions": "祛风除湿，补益肝肾，强筋壮骨，利水消肿",
+    "indications": "用于风湿痹病，筋骨痿软，小儿行迟，体虚乏力，水肿，脚气",
+    "precautions": "阴虚火旺者慎服",
+    "pinyin": "wujiapi",
+    "chinese": "五加皮"
+  },
+  "wulingzhi": {
+    "category": "活血化瘀药",
+    "nature": "苦、甘，温",
+    "meridian": "归肝经",
+    "functions": "活血止痛，化瘀止血",
+    "indications": "用于心腹血气诸痛，痛经，产后瘀血腹痛；外用治跌扑损伤，蛇、蝎、蜈蚣咬伤",
+    "precautions": "孕妇慎用；不宜与人参同用",
+    "pinyin": "wulingzhi",
+    "chinese": "五灵脂"
+  },
+  "wumei": {
+    "category": "收涩药",
+    "nature": "酸、涩，平",
+    "meridian": "归肝、脾、肺、大肠经",
+    "functions": "敛肺，涩肠，生津，安蛔",
+    "indications": "用于肺虚久咳，久泻久痢，虚热消渴，蛔厥呕吐腹痛",
+    "precautions": "外有表邪或内有实热积滞者均不宜服",
+    "pinyin": "wumei",
+    "chinese": "乌梅"
+  },
+  "wuweizi": {
+    "category": "收涩药",
+    "nature": "酸、甘，温",
+    "meridian": "归肺、心、肾经",
+    "functions": "收敛固涩，益气生津，补肾宁心",
+    "indications": "用于久嗽虚喘，梦遗滑精，遗尿尿频，久泻不止，自汗盗汗，津伤口渴，内热消渴，心悸失眠",
+    "precautions": "表邪未解，内有实热，咳嗽初起，麻疹初发者不宜使用",
+    "pinyin": "wuweizi",
+    "chinese": "五味子"
+  },
+  "xiangfu": {
+    "category": "理气药",
+    "nature": "辛、微苦、微甘，平",
+    "meridian": "归肝、脾、三焦经",
+    "functions": "疏肝解郁，理气宽中，调经止痛",
+    "indications": "用于肝郁气滞，胸胁胀痛，疝气疼痛，乳房胀痛，脾胃气滞，脘腹痞闷，胀满疼痛，月经不调，经闭痛经",
+    "precautions": "",
+    "pinyin": "xiangfu",
+    "chinese": "香附"
+  },
+  "xiaohuixiang": {
+    "category": "温里药",
+    "nature": "辛，温",
+    "meridian": "归肝、肾、脾、胃经",
+    "functions": "散寒止痛，理气和胃",
+    "indications": "用于寒疝腹痛，睾丸偏坠，痛经，少腹冷痛，脘腹胀痛，食少吐泻",
+    "precautions": "阴虚火旺者禁服",
+    "pinyin": "xiaohuixiang",
+    "chinese": "小茴香"
+  },
+  "xinyi": {
+    "category": "解表药",
+    "nature": "辛，温",
+    "meridian": "归肺、胃经",
+    "functions": "散风寒，通鼻窍",
+    "indications": "用于风寒头痛，鼻塞，鼻渊，鼻流浊涕",
+    "precautions": "",
+    "pinyin": "xinyi",
+    "chinese": "辛夷"
+  },
+  "xuduan": {
+    "category": "补阳药",
+    "nature": "苦、辛，微温",
+    "meridian": "归肝、肾经",
+    "functions": "补肝肾，强筋骨，续折伤，止崩漏",
+    "indications": "用于肝肾不足，腰膝酸软，风湿痹痛，跌扑损伤，筋伤骨折，崩漏，胎漏",
+    "precautions": "初痢勿用，怒气郁者禁用",
+    "pinyin": "xuduan",
+    "chinese": "续断"
+  },
+  "yimucao": {
+    "category": "活血化瘀药",
+    "nature": "苦、辛，微寒",
+    "meridian": "归肝、心包、膀胱经",
+    "functions": "活血调经，利尿消肿，清热解毒",
+    "indications": "用于月经不调，痛经经闭，恶露不尽，水肿尿少，疮疡肿毒",
+    "precautions": "孕妇慎用",
+    "pinyin": "yimucao",
+    "chinese": "益母草"
+  },
+  "yinchen": {
+    "category": "利湿退黄药",
+    "nature": "苦、辛，微寒",
+    "meridian": "归脾、胃、肝、胆经",
+    "functions": "清利湿热，利胆退黄",
+    "indications": "用于黄疸尿少，湿温暑湿，湿疮瘙痒",
+    "precautions": "蓄血发黄者及血虚萎黄者慎用",
+    "pinyin": "yinchen",
+    "chinese": "茵陈"
+  },
+  "yiyiren": {
+    "category": "利水渗湿药",
+    "nature": "甘、淡，凉",
+    "meridian": "归脾、胃、肺经",
+    "functions": "利水渗湿，健脾止泻，除痹，排脓，解毒散结",
+    "indications": "用于水肿，脚气，小便不利，脾虚泄泻，湿痹拘挛，肺痈，肠痈，赘疣，癌肿",
+    "precautions": "孕妇慎用",
+    "pinyin": "yiyiren",
+    "chinese": "薏苡仁"
+  },
+  "yuanzhi": {
+    "category": "安神药",
+    "nature": "苦、辛，温",
+    "meridian": "归心、肾、肺经",
+    "functions": "安神益智，交通心肾，祛痰，消肿",
+    "indications": "用于心肾不交引起的失眠多梦、健忘惊悸、神志恍惚，咳痰不爽，疮疡肿毒，乳房肿痛",
+    "precautions": "阴虚火旺、脾胃虚弱者以及孕妇慎服",
+    "pinyin": "yuanzhi",
+    "chinese": "远志"
+  },
+  "yujin": {
+    "category": "活血化瘀药",
+    "nature": "辛、苦，寒",
+    "meridian": "归肝、心、肺经",
+    "functions": "活血止痛，行气解郁，清心凉血，利胆退黄",
+    "indications": "用于胸胁刺痛，胸痹心痛，经闭痛经，乳房胀痛，热病神昏，癫痫发狂，血热吐衄，黄疸尿赤",
+    "precautions": "不宜与丁香、母丁香同用",
+    "pinyin": "yujin",
+    "chinese": "郁金"
+  },
+  "yuzhu": {
+    "category": "补阴药",
+    "nature": "甘，微寒",
+    "meridian": "归肺、胃经",
+    "functions": "养阴润燥，生津止渴",
+    "indications": "用于肺胃阴伤，燥热咳嗽，咽干口渴，内热消渴",
+    "precautions": "痰湿气滞者禁服，脾虚便溏者慎服",
+    "pinyin": "yuzhu",
+    "chinese": "玉竹"
+  },
+  "zelan": {
+    "category": "活血药",
+    "nature": "苦、辛，微温",
+    "meridian": "归肝、脾经",
+    "functions": "活血调经，祛瘀消痈，利水消肿",
+    "indications": "用于月经不调，经闭，痛经，产后瘀血腹痛，疮痈肿毒，水肿腹水",
+    "precautions": "",
+    "pinyin": "zelan",
+    "chinese": "泽兰"
+  },
+  "zhebeimu": {
+    "category": "化痰止咳平喘药",
+    "nature": "苦，寒",
+    "meridian": "归肺、心经",
+    "functions": "清热化痰止咳，解毒散结消痈",
+    "indications": "用于风热咳嗽，痰火咳嗽，肺痈，乳痈，瘰疬，疮毒",
+    "precautions": "不宜与川乌、制川乌、草乌、制草乌、附子同用；脾胃虚寒及有湿痰者不宜",
+    "pinyin": "zhebeimu",
+    "chinese": "浙贝母"
+  },
+  "zhenzhumu": {
+    "category": "平肝息风药",
+    "nature": "咸，寒",
+    "meridian": "归肝、心经",
+    "functions": "平肝潜阳，安神定惊，明目退翳",
+    "indications": "用于头痛眩晕，惊悸失眠，目赤肿痛，视物昏花，惊痫抽搐，湿疹瘙痒",
+    "precautions": "脾胃虚寒者慎服",
+    "pinyin": "zhenzhumu",
+    "chinese": "珍珠母"
+  },
+  "zhimu": {
+    "category": "清热泻火药",
+    "nature": "苦、甘，寒",
+    "meridian": "归肺、胃、肾经",
+    "functions": "清热泻火，滋阴润燥",
+    "indications": "用于外感热病，高热烦渴，肺热燥咳，骨蒸潮热，内热消渴，肠燥便秘",
+    "precautions": "脾胃虚寒，大便溏泄者忌服",
+    "pinyin": "zhimu",
+    "chinese": "知母"
+  },
+  "zhiqiao": {
+    "category": "理气药",
+    "nature": "苦、辛、酸，微寒",
+    "meridian": "归脾、胃经",
+    "functions": "理气宽中，行滞消胀",
+    "indications": "用于胸胁气滞，胀满疼痛，食积不化，痰饮内停，脏器下垂",
+    "precautions": "孕妇慎用",
+    "pinyin": "zhiqiao",
+    "chinese": "枳壳"
+  },
+  "zhishi": {
+    "category": "理气药",
+    "nature": "苦、辛、酸，微寒",
+    "meridian": "归脾、胃经",
+    "functions": "破气消积，化痰散痞",
+    "indications": "用于积滞内停，痞满胀痛，泻痢后重，大便不通，痰滞气阻，胸痹，结胸，脏器下垂",
+    "precautions": "孕妇慎用",
+    "pinyin": "zhishi",
+    "chinese": "枳实"
+  },
+  "zhuru": {
+    "category": "化痰止咳平喘药",
+    "nature": "甘，微寒",
+    "meridian": "归肺、胃、心、胆经",
+    "functions": "清热化痰，除烦，止呕",
+    "indications": "用于痰热咳嗽，胆火挟痰，惊悸不宁，心烦失眠，中风痰迷，舌强不语，胃热呕吐，妊娠恶阻，胎动不安",
+    "precautions": "寒痰咳喘、胃寒呕逆及脾虚泄泻者禁服",
+    "pinyin": "zhuru",
+    "chinese": "竹茹"
+  },
+  "zicao": {
+    "category": "清热凉血药",
+    "nature": "甘、咸，寒",
+    "meridian": "归心、肝经",
+    "functions": "凉血，活血，解毒透疹",
+    "indications": "用于血热毒盛，斑疹紫黑，麻疹不透，疮疡，湿疹，水火烫伤",
+    "precautions": "胃肠虚弱，大便溏泄者慎服",
+    "pinyin": "zicao",
+    "chinese": "紫草"
+  },
+  "ziyuan": {
+    "category": "化痰止咳平喘药",
+    "nature": "辛、苦，温",
+    "meridian": "归肺经",
+    "functions": "润肺下气，消痰止咳",
+    "indications": "用于痰多喘咳，新久咳嗽，劳嗽咳血",
+    "precautions": "有实热者慎服",
+    "pinyin": "ziyuan",
+    "chinese": "紫菀"
+  }
+}

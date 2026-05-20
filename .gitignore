@@ -1,0 +1,74 @@
+# === 模型文件（过大，不提交） ===
+*.onnx
+*.pth
+*.pt
+*.rknn
+*.npz
+*.ckpt
+
+# === 图片数据 ===
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.bmp
+*.yuv
+*.ico
+
+# === 数据集目录 ===
+data_90/
+data_authenticity/
+data_analysis/
+diagnose_maiya_guya/
+feedback/
+charts_comprehensive/
+charts/
+__pycache__/
+
+# === 日志与输出 ===
+*.log
+resnet50_output/
+*.txt.log
+
+# === 临时文件 ===
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# === IDE ===
+.vscode/
+.idea/
+*.iml
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# === 虚拟环境 ===
+venv/
+.env/
+.venv/
+env/
+
+venv_rknn232/
+
+# === PatchCore 记忆库（过大） ===
+patchcore_memory/
+patchcore_memory_phase3/
+
+# === RKNN 工具包（过大） ===
+*.whl
+librknnrt.so*
+
+# === 对话记录（过大） ===
+scripts/对话/
+
